@@ -1,0 +1,3 @@
+Producto: Lapiz,
+Cantidad:10
+Precio: $6.50

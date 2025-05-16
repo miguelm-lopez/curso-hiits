@@ -1,0 +1,4 @@
+titulo|autor|precio|genero|stock
+titulo1|autor1|100.30|literatura|1
+titulo2|autor2|10.30|literatura|2
+titulo3|autor3|50.30|literatura|1

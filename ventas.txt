@@ -1,0 +1,6 @@
+libro,cantidad,fecha
+libro1,2,2025-05-07
+libro2,2,2025-05-06
+libro3,2,2025-05-04
+libro4,2,2025-05-03
+libro5,2,2025-05-02
